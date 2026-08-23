@@ -3,6 +3,8 @@
 Public legal and privacy documents for Homan's Stream Deck music controls.
 
 - [Privacy Policy](PRIVACY.md)
-- Privacy contact: homanw712@gmail.com
+- [End User License Agreement](EULA.md)
+- [Third-Party Notices](THIRD_PARTY_NOTICES.md)
+- Privacy and legal contact: homanw712@gmail.com
 
 The plugin source code and commercial distribution files are not published in this repository.
